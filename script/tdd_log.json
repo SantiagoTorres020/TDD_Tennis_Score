@@ -16,9 +16,47 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "35f4df466b0d598fbe1e47345ff4feff0a38b4f9",
     "commitName": "plan de pruebas",
     "commitTimestamp": 1772113558513,
     "testId": 0
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1772113772716,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1772113809116,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1772113843027,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1772113917114,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: caso de inicio de juego",
+    "commitTimestamp": 1772113954737,
+    "testId": 1
   }
 ]

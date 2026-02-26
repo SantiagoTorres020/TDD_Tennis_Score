@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "35f4df466b0d598fbe1e47345ff4feff0a38b4f9",
     "author": "israel antezana",
     "commit": {
       "date": "2026-02-26T13:45:57.000Z",
       "message": "plan de pruebas",
-      "url": "https://github.com/israelantezana/2026-1-TennisTDD/commit/HEAD"
+      "url": "https://github.com/israelantezana/2026-1-TennisTDD/commit/35f4df466b0d598fbe1e47345ff4feff0a38b4f9"
     },
     "stats": {
       "total": 53,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "israel antezana",
+    "commit": {
+      "date": "2026-02-26T13:52:34.000Z",
+      "message": "feat: caso de inicio de juego",
+      "url": "https://github.com/israelantezana/2026-1-TennisTDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 16,
+      "additions": 16,
+      "deletions": 0,
+      "date": "2026-02-26"
+    },
+    "coverage": 100,
+    "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
   }
