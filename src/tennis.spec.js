@@ -136,6 +136,18 @@ it("en Advantage Player 1, jugador 1 anota: Game for Player 1", () => {
   tennis.player1Scores();
   expect(tennis.score()).toEqual("Game for player 1");
 });
+
+it("en Deuce jugador 2 anota: Advantage Player 2", () => {
+  let tennis = new Tennis();
+  tennis.player1Scores();
+  tennis.player1Scores();
+  tennis.player1Scores();
+  tennis.player2Scores();
+  tennis.player2Scores();
+  tennis.player2Scores();
+  tennis.player2Scores();
+  expect(tennis.score()).toEqual("Advantage Player 2");
+});
 });
 
 

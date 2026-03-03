@@ -361,12 +361,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "db10c75981ca158ca60427e60c72f3f0910e22ce",
     "author": "Santiago Torres",
     "commit": {
       "date": "2026-03-03T03:06:57.000Z",
       "message": "feat: permitir que jugador 1 gane el game desde ventaja",
-      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/HEAD"
+      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/db10c75981ca158ca60427e60c72f3f0910e22ce"
     },
     "stats": {
       "total": 17,
@@ -376,6 +376,25 @@
     },
     "coverage": 100,
     "test_count": 17,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Santiago Torres",
+    "commit": {
+      "date": "2026-03-03T03:08:42.000Z",
+      "message": "feat: implementar ventaja para jugador 2 después de Deuce",
+      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/HEAD"
+    },
+    "stats": {
+      "total": 16,
+      "additions": 15,
+      "deletions": 1,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 18,
     "failed_tests": 0,
     "conclusion": "success"
   }
