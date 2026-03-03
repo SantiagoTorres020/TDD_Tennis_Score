@@ -9,6 +9,9 @@ class Tennis {
         if(this.player1Points == 4){
             return "Game for player 1";
         }
+        if(this.player2Points == 4){
+            return "Game for player 2";
+        }
 
         let player1Score = "Love";
         if(this.player1Points == 1){
