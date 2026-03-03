@@ -380,12 +380,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "27fe236d9d6e5c885944561c07ba7a78f1c2e0ab",
     "author": "Santiago Torres",
     "commit": {
       "date": "2026-03-03T03:08:42.000Z",
       "message": "feat: implementar ventaja para jugador 2 después de Deuce",
-      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/HEAD"
+      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/27fe236d9d6e5c885944561c07ba7a78f1c2e0ab"
     },
     "stats": {
       "total": 16,
@@ -395,6 +395,25 @@
     },
     "coverage": 100,
     "test_count": 18,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Santiago Torres",
+    "commit": {
+      "date": "2026-03-03T03:10:05.000Z",
+      "message": "feat: volver a Deuce cuando el oponente anota desde ventaja",
+      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/HEAD"
+    },
+    "stats": {
+      "total": 16,
+      "additions": 16,
+      "deletions": 0,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 19,
     "failed_tests": 0,
     "conclusion": "success"
   }
