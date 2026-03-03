@@ -161,6 +161,19 @@ it("en Advantage Player 2, jugador 1 anota: vuelve a Deuce", () => {
   tennis.player1Scores();
   expect(tennis.score()).toEqual("Deuce");
 });
+
+it("en Advantage Player 2, jugador 2 anota: Game for Player 2", () => {
+  let tennis = new Tennis();
+  tennis.player1Scores();
+  tennis.player1Scores();
+  tennis.player1Scores();
+  tennis.player2Scores();
+  tennis.player2Scores();
+  tennis.player2Scores();
+  tennis.player2Scores();
+  tennis.player2Scores();
+  expect(tennis.score()).toEqual("Game for Player 2");
+});
 });
 
 

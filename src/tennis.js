@@ -9,6 +9,9 @@ class Tennis {
         if(this.player1Points == 5 && this.player2Points == 3){
             return "Game for player 1";
         }
+        if(this.player2Points == 5 && this.player1Points == 3){
+            return "Game for Player 2";
+        }
         if(this.player1Points == 4 && this.player2Points == 4){
             return "Deuce";
         }
