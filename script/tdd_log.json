@@ -442,9 +442,15 @@
     "testId": 15
   },
   {
-    "commitId": "HEAD",
+    "commitId": "2e1d81ff9256ef9c90c10d24c9757bee8301b3b7",
     "commitName": "feat: soportar marcador empatado 30 - 30",
     "commitTimestamp": 1772506230859,
     "testId": 15
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: soportar marcador 40 - 30",
+    "commitTimestamp": 1772506281452,
+    "testId": 16
   }
 ]

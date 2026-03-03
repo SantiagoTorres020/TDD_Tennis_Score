@@ -285,12 +285,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "2e1d81ff9256ef9c90c10d24c9757bee8301b3b7",
     "author": "Santiago Torres",
     "commit": {
       "date": "2026-03-03T02:50:29.000Z",
       "message": "feat: soportar marcador empatado 30 - 30",
-      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/HEAD"
+      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/2e1d81ff9256ef9c90c10d24c9757bee8301b3b7"
     },
     "stats": {
       "total": 9,
@@ -300,6 +300,25 @@
     },
     "coverage": 100,
     "test_count": 13,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Santiago Torres",
+    "commit": {
+      "date": "2026-03-03T02:51:19.000Z",
+      "message": "feat: soportar marcador 40 - 30",
+      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 14,
     "failed_tests": 0,
     "conclusion": "success"
   }
