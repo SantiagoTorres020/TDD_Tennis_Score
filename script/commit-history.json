@@ -171,12 +171,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "898ab8e12b287e8c9f2b10eb7447107a8213817b",
     "author": "Santiago Torres",
     "commit": {
       "date": "2026-03-03T02:40:02.000Z",
       "message": "feat: agregar puntuación inicial para jugador 2 (Love - 15)",
-      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/HEAD"
+      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/898ab8e12b287e8c9f2b10eb7447107a8213817b"
     },
     "stats": {
       "total": 39,
@@ -186,6 +186,25 @@
     },
     "coverage": 100,
     "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Santiago Torres",
+    "commit": {
+      "date": "2026-03-03T02:43:08.000Z",
+      "message": "feat: soportar segundo punto del jugador 2 (Love - 30)",
+      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/HEAD"
+    },
+    "stats": {
+      "total": 22,
+      "additions": 15,
+      "deletions": 7,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
   }
