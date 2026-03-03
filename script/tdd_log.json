@@ -470,9 +470,79 @@
     "testId": 17
   },
   {
-    "commitId": "HEAD",
+    "commitId": "b5bedb700ee291f3cd1c177eb0f0e418b4b337af",
     "commitName": "feat: implementar condición de Deuce cuando ambos llegan a 40",
     "commitTimestamp": 1772506593193,
     "testId": 17
+  },
+  {
+    "numPassedTests": 15,
+    "failedTests": 0,
+    "numTotalTests": 15,
+    "timestamp": 1772506628012,
+    "success": true,
+    "testId": 18
+  },
+  {
+    "numPassedTests": 15,
+    "failedTests": 1,
+    "numTotalTests": 16,
+    "timestamp": 1772506638900,
+    "success": false,
+    "testId": 18
+  },
+  {
+    "numPassedTests": 15,
+    "failedTests": 1,
+    "numTotalTests": 16,
+    "timestamp": 1772506662060,
+    "success": false,
+    "testId": 18
+  },
+  {
+    "numPassedTests": 13,
+    "failedTests": 3,
+    "numTotalTests": 16,
+    "timestamp": 1772506710416,
+    "success": false,
+    "testId": 18
+  },
+  {
+    "numPassedTests": 15,
+    "failedTests": 1,
+    "numTotalTests": 16,
+    "timestamp": 1772506735817,
+    "success": false,
+    "testId": 18
+  },
+  {
+    "numPassedTests": 14,
+    "failedTests": 2,
+    "numTotalTests": 16,
+    "timestamp": 1772507023784,
+    "success": false,
+    "testId": 18
+  },
+  {
+    "numPassedTests": 15,
+    "failedTests": 1,
+    "numTotalTests": 16,
+    "timestamp": 1772507052020,
+    "success": false,
+    "testId": 18
+  },
+  {
+    "numPassedTests": 16,
+    "failedTests": 0,
+    "numTotalTests": 16,
+    "timestamp": 1772507070011,
+    "success": true,
+    "testId": 18
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implementar ventaja para jugador 1 después de Deuce",
+    "commitTimestamp": 1772507096727,
+    "testId": 18
   }
 ]

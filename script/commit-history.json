@@ -323,12 +323,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "b5bedb700ee291f3cd1c177eb0f0e418b4b337af",
     "author": "Santiago Torres",
     "commit": {
       "date": "2026-03-03T02:56:31.000Z",
       "message": "feat: implementar condición de Deuce cuando ambos llegan a 40",
-      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/HEAD"
+      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/b5bedb700ee291f3cd1c177eb0f0e418b4b337af"
     },
     "stats": {
       "total": 14,
@@ -338,6 +338,25 @@
     },
     "coverage": 100,
     "test_count": 15,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Santiago Torres",
+    "commit": {
+      "date": "2026-03-03T03:04:54.000Z",
+      "message": "feat: implementar ventaja para jugador 1 después de Deuce",
+      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/HEAD"
+    },
+    "stats": {
+      "total": 26,
+      "additions": 23,
+      "deletions": 3,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 16,
     "failed_tests": 0,
     "conclusion": "success"
   }
