@@ -644,9 +644,15 @@
     "testId": 22
   },
   {
-    "commitId": "HEAD",
+    "commitId": "cccaf795b008f4d363b5024b830a8ad3b87dada3",
     "commitName": "feat: permitir que jugador 2 gane el game desde ventaja",
     "commitTimestamp": 1772507512601,
     "testId": 22
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: botones y marcador",
+    "commitTimestamp": 1772507780487,
+    "testId": 23
   }
 ]

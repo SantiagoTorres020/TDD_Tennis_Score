@@ -418,17 +418,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "cccaf795b008f4d363b5024b830a8ad3b87dada3",
     "author": "Santiago Torres",
     "commit": {
       "date": "2026-03-03T03:11:50.000Z",
       "message": "feat: permitir que jugador 2 gane el game desde ventaja",
-      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/HEAD"
+      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/cccaf795b008f4d363b5024b830a8ad3b87dada3"
     },
     "stats": {
       "total": 16,
       "additions": 16,
       "deletions": 0,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 20,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Santiago Torres",
+    "commit": {
+      "date": "2026-03-03T03:16:18.000Z",
+      "message": "feat: botones y marcador",
+      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/HEAD"
+    },
+    "stats": {
+      "total": 45,
+      "additions": 25,
+      "deletions": 20,
       "date": "2026-03-03"
     },
     "coverage": 100,
