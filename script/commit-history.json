@@ -228,12 +228,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "3110982960264f210e5e12579b9c43819ea071ee",
     "author": "Santiago Torres",
     "commit": {
       "date": "2026-03-03T02:47:34.000Z",
       "message": "feat: declarar game para jugador 2 cuando llega a 4 puntos sin deuce",
-      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/HEAD"
+      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/3110982960264f210e5e12579b9c43819ea071ee"
     },
     "stats": {
       "total": 12,
@@ -243,6 +243,25 @@
     },
     "coverage": 100,
     "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Santiago Torres",
+    "commit": {
+      "date": "2026-03-03T02:48:54.000Z",
+      "message": "feat: soportar marcador empatado 15 - 15",
+      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 7,
+      "deletions": 0,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 11,
     "failed_tests": 0,
     "conclusion": "success"
   }
