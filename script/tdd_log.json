@@ -340,9 +340,39 @@
     "testId": 10
   },
   {
-    "commitId": "HEAD",
+    "commitId": "e78f0884805f502618209ac25643224ec936885a",
     "commitName": "feat: soportar segundo punto del jugador 2 (Love - 30)",
     "commitTimestamp": 1772505790359,
     "testId": 10
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1772505900618,
+    "success": true,
+    "testId": 11
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 1,
+    "numTotalTests": 9,
+    "timestamp": 1772505913644,
+    "success": false,
+    "testId": 11
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1772505927698,
+    "success": true,
+    "testId": 11
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: soportar tercer punto del jugador 2 (Love - 40)",
+    "commitTimestamp": 1772505950332,
+    "testId": 11
   }
 ]
