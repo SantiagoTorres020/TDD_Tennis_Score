@@ -152,12 +152,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "c5ac65bf0a68a799eea3bdaf99d81ec74ad6416d",
     "author": "Santiago Torres",
     "commit": {
       "date": "2026-03-03T01:54:03.000Z",
       "message": "feat: declarar game para jugador 1 cuando llega a 4 puntos sin deuce",
-      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/HEAD"
+      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/c5ac65bf0a68a799eea3bdaf99d81ec74ad6416d"
     },
     "stats": {
       "total": 31,
@@ -169,5 +169,24 @@
     "test_count": 6,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Santiago Torres",
+    "commit": {
+      "date": "2026-03-03T02:40:02.000Z",
+      "message": "feat: agregar puntuación inicial para jugador 2 (Love - 15)",
+      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/HEAD"
+    },
+    "stats": {
+      "total": 39,
+      "additions": 31,
+      "deletions": 8,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]

@@ -256,9 +256,71 @@
     "testId": 8
   },
   {
-    "commitId": "HEAD",
+    "commitId": "c5ac65bf0a68a799eea3bdaf99d81ec74ad6416d",
     "commitName": "feat: declarar game para jugador 1 cuando llega a 4 puntos sin deuce",
     "commitTimestamp": 1772502844702,
     "testId": 8
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 2,
+    "numTotalTests": 7,
+    "timestamp": 1772503275493,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 2,
+    "numTotalTests": 7,
+    "timestamp": 1772503303547,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 1,
+    "numTotalTests": 7,
+    "timestamp": 1772503317144,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 2,
+    "numTotalTests": 7,
+    "timestamp": 1772503527875,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 2,
+    "numTotalTests": 7,
+    "timestamp": 1772503983139,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 1,
+    "numTotalTests": 7,
+    "timestamp": 1772503992824,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1772504008734,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agregar puntuación inicial para jugador 2 (Love - 15)",
+    "commitTimestamp": 1772505604046,
+    "testId": 9
   }
 ]
