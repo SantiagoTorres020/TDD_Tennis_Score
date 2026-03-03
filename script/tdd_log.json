@@ -540,9 +540,47 @@
     "testId": 18
   },
   {
-    "commitId": "HEAD",
+    "commitId": "300f9067e287a9b6406f6b5a126b4693adf18637",
     "commitName": "feat: implementar ventaja para jugador 1 después de Deuce",
     "commitTimestamp": 1772507096727,
     "testId": 18
+  },
+  {
+    "numPassedTests": 16,
+    "failedTests": 1,
+    "numTotalTests": 17,
+    "timestamp": 1772507148513,
+    "success": false,
+    "testId": 19
+  },
+  {
+    "numPassedTests": 15,
+    "failedTests": 2,
+    "numTotalTests": 17,
+    "timestamp": 1772507165023,
+    "success": false,
+    "testId": 19
+  },
+  {
+    "numPassedTests": 16,
+    "failedTests": 1,
+    "numTotalTests": 17,
+    "timestamp": 1772507189526,
+    "success": false,
+    "testId": 19
+  },
+  {
+    "numPassedTests": 17,
+    "failedTests": 0,
+    "numTotalTests": 17,
+    "timestamp": 1772507209324,
+    "success": true,
+    "testId": 19
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: permitir que jugador 1 gane el game desde ventaja",
+    "commitTimestamp": 1772507218993,
+    "testId": 19
   }
 ]
