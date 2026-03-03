@@ -304,12 +304,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "a2f13b8a5652d60eafa71a6f888e09271de3c47a",
     "author": "Santiago Torres",
     "commit": {
       "date": "2026-03-03T02:51:19.000Z",
       "message": "feat: soportar marcador 40 - 30",
-      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/HEAD"
+      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/a2f13b8a5652d60eafa71a6f888e09271de3c47a"
     },
     "stats": {
       "total": 10,
@@ -319,6 +319,25 @@
     },
     "coverage": 100,
     "test_count": 14,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Santiago Torres",
+    "commit": {
+      "date": "2026-03-03T02:56:31.000Z",
+      "message": "feat: implementar condición de Deuce cuando ambos llegan a 40",
+      "url": "https://github.com/SantiagoTorres020/TDD_Tennis_Score/commit/HEAD"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 14,
+      "deletions": 0,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 15,
     "failed_tests": 0,
     "conclusion": "success"
   }

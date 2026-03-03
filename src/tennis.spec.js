@@ -100,6 +100,17 @@ it("jugador 1 anota 3 y jugador 2 anota 2: 40 - 30", () => {
   tennis.player2Scores();
   expect(tennis.score()).toEqual("40 - 30");
 });
+
+it("jugador 1 anota 3 y jugador 2 anota 3: Deuce", () => {
+  let tennis = new Tennis();
+  tennis.player1Scores();
+  tennis.player1Scores();
+  tennis.player1Scores();
+  tennis.player2Scores();
+  tennis.player2Scores();
+  tennis.player2Scores();
+  expect(tennis.score()).toEqual("Deuce");
+});
 });
 
 
